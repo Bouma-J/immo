@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: MyString
+  rente: 1
+  address: MyString
+  buildingAge: 1
+  remark: MyString
+
+two:
+  property: MyString
+  rente: 1
+  address: MyString
+  buildingAge: 1
+  remark: MyString
